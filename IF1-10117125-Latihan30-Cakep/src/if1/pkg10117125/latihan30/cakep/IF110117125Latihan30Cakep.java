@@ -8,9 +8,9 @@ import java.util.Scanner;
 /**
  *
  * @author
- * NAMA : Gandy Christian Situmorang
- * KELAS: PBO-6
- * NIM  : 10116228
+ * NAMA : Zulfi Ihzam Rahmat
+ * KELAS: IF-1
+ * NIM  : 10117125
  * Deskripsi Program: program ini berisi program pertanyaan pembuatan latihan
  * program dari laihan17-latihan30
  */
